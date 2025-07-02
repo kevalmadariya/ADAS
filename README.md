@@ -10,7 +10,6 @@ The ADAS project simulates autonomous driving assistance capabilities using the 
 - Detect objects (vehicles, pedestrians)
 - Recognize lane markings
 - Predict and perform actions like steering and braking
-- Steer a virtual car in real-time
 
 ---
 
@@ -68,6 +67,15 @@ The ADAS project simulates autonomous driving assistance capabilities using the 
 
 ### Lane Detection
 - Reliable in most conditions, some limitations in poor lighting or intersections.
+
+---
+## More Detaild DOC 
+
+### Projecet Report
+- https://drive.google.com/file/d/1u9rLjcvdCavckyyc1t1DMZ9EUl_kNGGK/view?usp=sharing
+
+### PPT
+- https://docs.google.com/presentation/d/1PXoY5QOw2I_QVaKsxp7SVMUBJpFGDEQV/edit?usp=drive_link&ouid=109896948784851878361&rtpof=true&sd=true
 
 ---
 
